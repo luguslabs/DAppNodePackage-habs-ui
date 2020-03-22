@@ -1,4 +1,5 @@
 #!/bin/sh
+
 # check env file prepared and coming from Archipel DappNodePackage shared volume
 if [ -f /config/archipel-ui.env ]
 then
@@ -18,5 +19,5 @@ echo "Valorize __PRODUCTION_API_PORT__ config with REACT_APP_API_PORT"
 sed -i -e "s/__PRODUCTION_API_PORT__/$REACT_APP_API_PORT/g" /usr/share/nginx/html/static/js/*.js 
 
 ARCHIPEL_UI_CONTAINER_IP=$(awk 'END{print $1}' /etc/hosts)
-echo "start ui at <a href=\"http:\/\/$ARCHIPEL_UI_CONTAINER_IP\">http://$ARCHIPEL_UI_CONTAINER_IP</a>"
+echo "Archipel UI website go to : http://$ARCHIPEL_UI_CONTAINER_IP"
 exec nginx -g 'daemon off;'
