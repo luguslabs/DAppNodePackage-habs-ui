@@ -1,0 +1,12 @@
+version: '3.4'
+services:
+  archipel-ui.public.dappnode.eth:
+    build: ./build
+    image: 'archipel-ui.public.dappnode.eth:0.1.0'
+    restart: always
+    volumes:
+      - 'archipelpublicdappnodeeth_config:/config:ro'
+
+volumes:
+  archipelpublicdappnodeeth_config:
+    external: true
