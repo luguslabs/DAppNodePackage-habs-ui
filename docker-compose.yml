@@ -6,7 +6,6 @@ services:
     restart: always
     volumes:
       - 'archipelpublicdappnodeeth_config:/config:ro'
-
 volumes:
   archipelpublicdappnodeeth_config:
     external: true
