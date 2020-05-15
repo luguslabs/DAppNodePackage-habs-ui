@@ -4,6 +4,26 @@
 
 <!--New features/improvements/fixes go here-->
 
+## [v1.0.4](https://github.com/luguslabs/DAppNodePackage-archipel-ui/releases/tag/v1.0.4)
+
+✔ Fetch current version from APM (next version: 1.0.4)
+✔ Build and upload
+✔ Generate transaction
+
+DNP (DAppNode Package) published (version 1.0.4)
+Manifest hash : /ipfs/QmYUVEoyUTYdKZzNytSVACWWFRqw5hC1fMCB2NQGWkLwAF
+http://my.dappnode/#/installer/%2Fipfs%2FQmYUVEoyUTYdKZzNytSVACWWFRqw5hC1fMCB2NQGWkLwAF
+
+You must execute this transaction in mainnet to publish a new version of this DNP.
+
+You can also execute this transaction with Metamask by following this pre-filled link
+
+http://my.dappnode/#/sdk/publish/r=archipel-ui.public.dappnode.eth&v=1.0.4&h=%2Fipfs%2FQmYUVEoyUTYdKZzNytSVACWWFRqw5hC1fMCB2NQGWkLwAF
+
+Published new version of this DNP :
+
+https://etherscan.io/tx/0xe989ac739cf39716d87364325f785f7aaf782df6da06e1c70980b9f37a16d9f2
+
 ## [v1.0.3](https://github.com/luguslabs/DAppNodePackage-archipel-ui/releases/tag/v1.0.3)
 
 ✔ Fetch current version from APM (next version: 1.0.3)
