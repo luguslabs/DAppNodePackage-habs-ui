@@ -46,5 +46,11 @@
       "dappnode": "Fri, 15 May 2020 16:39:27 GMT"
     },
     "link": "http://my.dappnode/#/sdk/publish/r=archipel-ui.public.dappnode.eth&v=1.0.4&h=%2Fipfs%2FQmYUVEoyUTYdKZzNytSVACWWFRqw5hC1fMCB2NQGWkLwAF"
+  },
+  "2.0.0": {
+    "hash": "/ipfs/QmdktHtZxeYghmZDhwbn9mPZDTDLH848mTE5VZhQRCHjsm",
+    "uploadedTo": {
+      "dappnode": "Sun, 09 Aug 2020 19:04:57 GMT"
+    }
   }
 }
