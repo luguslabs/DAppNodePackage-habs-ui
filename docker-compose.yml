@@ -2,7 +2,7 @@ version: '3.4'
 services:
   archipel-ui.public.dappnode.eth:
     build: ./build
-    image: 'archipel-ui.public.dappnode.eth:2.0.0'
+    image: 'archipel-ui.public.dappnode.eth:2.0.1'
     restart: always
     volumes:
       - 'archipelpublicdappnodeeth_config:/config:ro'
