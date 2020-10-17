@@ -1,1 +1,1 @@
-FROM luguslabs/archipel-ui:2.0.1
+FROM luguslabs/archipel-ui:2.1.0

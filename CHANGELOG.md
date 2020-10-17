@@ -4,6 +4,8 @@
 
 <!--New features/improvements/fixes go here-->
 
+## [v2.1.0](https://github.com/luguslabs/DAppNodePackage-archipel-ui/releases/tag/v2.1.0)
+
 ## [v1.0.4](https://github.com/luguslabs/DAppNodePackage-archipel-ui/releases/tag/v1.0.4)
 
 ✔ Fetch current version from APM (next version: 1.0.4)
